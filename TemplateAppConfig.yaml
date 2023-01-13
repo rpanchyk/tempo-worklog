@@ -1,0 +1,8 @@
+jira:
+  url: https://<COMPANY>.atlassian.net
+  user_email: <USER_EMAIL>
+  user_token: <USER_TOKEN>
+  tempo_token: <TEMPO_TOKEN>
+files:
+  project_config: <COMPANY>ProjectConfig.xlsx
+  report: <COMPANY>Report.xlsx
